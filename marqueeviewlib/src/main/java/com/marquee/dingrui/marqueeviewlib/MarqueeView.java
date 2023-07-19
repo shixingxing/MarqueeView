@@ -6,16 +6,15 @@ import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.Rect;
-import android.support.annotation.Nullable;
-import android.support.v7.widget.TintTypedArray;
 import android.text.TextPaint;
 import android.text.TextUtils;
 import android.util.AttributeSet;
 import android.util.Log;
 import android.view.View;
 
+import androidx.appcompat.widget.TintTypedArray;
+
 import java.util.List;
-import java.util.Random;
 
 /**
  * Created by ruedy on 2018/3/8.
